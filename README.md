@@ -12,7 +12,7 @@ For further details, please visit:
 ## Tested Environments
 - Windows 10 64-bit .NET 7.0, Powershell 5.1
 - Linux 64-bit .NET 7.0, Ubuntu 20.04.05 LTS
-- Melissa Profiler Object for 2025-Q2
+- Melissa Profiler Object for 2025-Q3
 - Wrapper file(s) have not changed since 2024-Q1
 
 ## Getting Started
