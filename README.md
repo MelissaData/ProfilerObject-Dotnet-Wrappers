@@ -5,12 +5,12 @@ This is the code for you to run Profiler Object in .NET.
 
 Please feel free to copy or embed this code to your own project. Happy coding!
 
-For the latest Melissa Profiler Object release notes, please visit: 
+To view the latest Melissa Address Object release notes or to subscribe to product notifications, please visit: https://releasenotes.melissa.com/on-premise-api/profiler-object/
 
-For further details, please visit: 
+For further details, please visit: https://docs.melissa.com/on-premise-api/profiler-object/profiler-object-quickstart.html
 
 ## Tested Environments
-- Windows 10 64-bit .NET 7.0, Powershell 5.1
+- Windows 11 64-bit .NET 7.0, Powershell 5.1
 - Linux 64-bit .NET 7.0, Ubuntu 20.04.05 LTS
 - Melissa Profiler Object for 2026-Q1
 - Wrapper file(s) have not changed since 2024-Q1
@@ -19,8 +19,8 @@ For further details, please visit:
 
 ### Download this project
 ```
-git clone https://github.com/MelissaData/ProfilerObject-Dotnet-Wrappers
-cd ProfilerObject-Dotnet-Wrappers
+git clone https://git.melissadata.com/dtgroup/melissadataobjectexamples/net/melissaprofilerobjectnetwrappers.git
+cd melissaprofilerobjectnetwrappers
 ```
 
 ### Copy wrappers to your project folder
